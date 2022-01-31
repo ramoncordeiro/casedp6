@@ -144,7 +144,7 @@ function sendFormGA(){
       'eventAction': 'enviado',
       'eventLabel': 'enviado'
     });
-  },1500);
+  },1800);
 
 }
 
